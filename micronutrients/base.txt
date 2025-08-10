@@ -1,0 +1,59 @@
+T: Description
+
+Micronutrients are nutrients the body needs in smaller amount for development and growth. They are very important to the body's metabolic processes. These include vitamins and minerals. 
+
+T: Micronutrient types
+
+There are four basic types of micronutrients: water-soluble vitamins, fat-soluble vitamins, macrominerals, and trace minerals.
+
+MT: Water-soluble vitamins
+They are quickly dissolved and eliminated by urination, so even when excessively ingested they are not stored in the body. The most significant of the group are B vitamins and vitamin C. You need to consume more of them each day because the body is not storing them. They help your body gain energy and promote the health of the body's cells, especially red blood cells. Although they each have a role, they serve related purposes.
+
+Vitamin list: vitamin C(ascorbic acid) and vitamin B complex: thiamin (B1), riboflavin (B2), niacin (B3), pantothenic acid (B5), vitamin B6, biotin (B7), folic acid (B9), and vitamin B12.
+
+MT: Fat-soluble vitamins
+They do not dissolve in water and are stored in the liver and fatty tissues. Essential for the proper functioning of the immune system, healthy bone growth, clear vision, and cell protection.
+
+Vitamin list: vitamins A, D, E, K
+
+MT: Macromineral
+
+Needed in higher concentration than trace minerals. A list of significant macrominerals and their roles is:
+1. Calcium: Healthy growth and functioning of the bones
+2. Phosphorous: A component of cell membranes
+3. Magnesium: Needed for the functioning of many enzymes in the body
+4. Sodium: regulation of the blood pressure and fluid balance
+5. Chloride: Maintains fluid balance and the production of digestive juices
+6. Potassium: Transmission of nerve impulses and muscle action
+7. Sulfur: Needed for the for formation of genetic material and several important proteins in the body
+
+MT: Trace elements
+The body needs a very minimal number of them, but they are responsible for several important functions.
+
+Trace minerals: selenium, iron, iodine, fluoride, copper, zinc, copper, and manganese.
+
+T: Essential functions of micronutrients
+
+Vitamin C: Powerful antioxidant and keeps the immune system healthy
+B vitamins: Help the body to obtain energy from the food we eat
+Vitamin B12: Produce red blood cells and maintain healthy nerves
+Vitamin A: Required for vision, immunity, and healthy skin
+Vitamin E: An antioxidant and helps prevent cell damage
+Vitamin K: Required for blood clotting and calcium transportation into the bone
+Vitamin D: Essential for a healthy immune system, and bone formation, and functions as a hormone throughout the body
+Iron: Helps form hemoglobin, the pigment that helps carry oxygen throughout the body
+Calcium: Required for muscle contracition and bone growth and strength
+Magnesium: Controls muscle contraction and how signals are sent to the nervous system. It also aids in the formation of teeth and bones
+Potassiuem: Essential for maintaining fluid and electrolyte balance, healthy nerve conduction, and muscle contraction
+
+T: Micronutrient deficiencies
+
+Micronutrient deficiency is a serious problem that can have various effects on the body. Some common micronutrient deficiencies include:
+
+Anemia: Iron deficiency
+Goiter and mental retardation: Iodine deficiency
+Rickets, bone loss and muscle weakness: Vitamin D deficiency
+Megaloblastic anemia and impaired nerve function: Vitamin B12 deficiency
+Osteoporosis: Calcium deficiency
+Impaired vision and blindness: Vitamin A deficiency
+Muscle cramps and fatigue: Magnesium deficiency
